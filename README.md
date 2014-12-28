@@ -1,6 +1,7 @@
 Practica1Android
 ================
 https://github.com/josearcosaneas/Nuevos-Paradigmas-Iteracci-n/tree/master/Practica1-Android
+https://github.com/josearcosaneas/Practica1Android/tree/master
 
 Proyecto: Tutorial sobre sensores de android. (Sensor acelerómetro)
 	Realizar acciones sobre una lista de reproducción a partir de los valores devueltos por el acelerómetro.
